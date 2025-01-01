@@ -175,3 +175,10 @@ li a:hover, li a:focus{
     left:0;
     z-index:10;
   }
+ 
+  /* Background and Borders
+background-color: Sets the background color of an element.
+background-image: Specifies an image as the background.
+background-size: Adjusts the size of the background image.
+border-radius: Rounds the corners of an element.
+background-position: Positions the background image. */
